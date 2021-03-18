@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @cristiancoppari
+- 👀 I’m interested in Front End Development
+- 🌱 I’m currently learning React
+- 💞️ I’m looking to collaborate on any ...
+- 📫 You can reach me at cristian.coppari@gmail.com
