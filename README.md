@@ -1,4 +1,4 @@
-I'm a Junior Full Stack Web Developer with a strong background in Digital Marketing and Data Analytics, based in Buenos Aires, Argentina.
+I'm a Semi Senior Front End Developer with a strong background in Digital Marketing and Data Analytics, based in Buenos Aires, Argentina.
 
 Tech skills:
 - JavaScript
