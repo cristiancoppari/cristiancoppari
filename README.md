@@ -12,4 +12,4 @@ Skilled with ✅:
 
 Coke or Pepsi? Pepsi.
 
-Reach me at: <a href="mailto:cristian.coppari@gmail.com"cristian.coppari@gmail.com</a> 📫
+Reach me at: <a href="mailto:cristian.coppari@gmail.com">cristian.coppari@gmail.com</a> 📫
