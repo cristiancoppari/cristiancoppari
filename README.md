@@ -1,4 +1,4 @@
-# Full Stack Developer JS Developer
+# Full Stack JS Developer
 Currently working as a Frontend Developer @ <a href="https://egodesign.io">EGO ⚫️</a>.
 
 ## Experience with:
