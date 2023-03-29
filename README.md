@@ -3,9 +3,9 @@ Fullstack Developer, currently working as a Frontend Developer @ <a href="https:
 Experience with:
 - JavaScript
 - TypeScript
-- React
+- React.js
 - Redux
-- NodeJS
+- Node.js
 - Scss
 - Bootstrap
 - Tailwind
