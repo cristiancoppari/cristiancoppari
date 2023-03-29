@@ -1,6 +1,6 @@
 Fullstack Developer, currently working as a Frontend Developer @ <a href="https://egodesign.io">EGO ⚫️</a>.
 
-Technologies that I've worked with:
+Experience with:
 - JavaScript
 - TypeScript
 - React
