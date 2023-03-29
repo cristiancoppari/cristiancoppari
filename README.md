@@ -1,6 +1,7 @@
-Fullstack Developer 🇦🇷, currently working as a Frontend Developer @ <a href="https://egodesign.io">EGO ⚫️</a>.
+# Full Stack Developer JS Developer
+Currently working as a Frontend Developer @ <a href="https://egodesign.io">EGO ⚫️</a>.
 
-Experience with:
+## Experience with:
 - JavaScript
 - TypeScript
 - React.js
