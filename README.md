@@ -1,17 +1,3 @@
-# Full Stack JS Developer
-Currently working as a Frontend Developer @ <a href="https://egodesign.io">EGO ⚫️</a>.
+# [https://cristian.codes](https://cristian.codes)
 
-## Experience with:
-- JavaScript
-- TypeScript
-- React.js
-- Redux
-- Node.js
-- Scss
-- Bootstrap
-- Tailwind
-- Twig/Nunjucks/Django
-
-Coke or Pepsi? Pepsi.
-
-Reach me at: <a href="mailto:cristian.coppari@gmail.com">cristian.coppari@gmail.com</a>.
+Full Stack Developer. Currently working as a Frontend Developer @ <a href="https://egodesign.io">EGO ⚫️</a>.
