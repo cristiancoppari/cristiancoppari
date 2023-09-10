@@ -1,3 +1,3 @@
-## Frontend @ [EGO Design](https://egodesign.io).
+## 9 - 5 @ [EGO Design](https://egodesign.io).
 
-[Portfolio](https://cristiancoppari.com)
+<a href="https://cristiancoppari.com">Check out my work</a>
