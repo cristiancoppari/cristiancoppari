@@ -1,3 +1,3 @@
-## Frontend @ <a href="https://egodesign.io">EGO ⚫️</a>.
+## Frontend @ [EGO Design](https://egodesign.io).
 
-<a href="https://cristiancoppari.com">Check out my work</a>
+[Portfolio](https://cristiancoppari.com)
