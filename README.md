@@ -1,3 +1,2 @@
-## 9 - 5 @ [EGO Design](https://egodesign.io).
-
-<a href="https://cristiancoppari.com">Check out my work</a>
+frontend @ <a href="https://egodesign.io">ego</a>
+fullstack @ estudio leda
